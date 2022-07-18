@@ -9,4 +9,4 @@ The solution is contenirized in a Docker-Compose environment, fully prepared for
   MINIO (to store objects, such as models)
 
 ## Part 2: Create df from JSON and Store it on the DB
-![Alt text](Challenge20220714/part2.png?raw=true "Part 2")
+![Alt text](/Challenge20220714/part2.png?raw=true "Part 2")

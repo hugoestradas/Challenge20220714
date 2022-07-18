@@ -10,3 +10,6 @@ The solution is contenirized in a Docker-Compose environment, fully prepared for
 
 ## Part 2: Create df from JSON and Store it on the DB
 ![alt text](https://github.com/hugoestradas/Challenge20220714/blob/main/part2.png?raw=true)
+
+## Part 3: Query last known position of a satellite
+![alt text](https://github.com/hugoestradas/Challenge20220714/blob/main/part3.png?raw=true)

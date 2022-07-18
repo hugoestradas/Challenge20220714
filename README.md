@@ -7,6 +7,7 @@ The solution is contenirized in a Docker-Compose environment, fully prepared for
   PG WEB (a web and grphical interface, for postgres)
   Apache Superset (a software for BI and Analycis)
   MINIO (to store objects, such as models)
+  ![alt text](https://github.com/hugoestradas/Challenge20220714/blob/main/part1.png?raw=true)
 
 ## Part 2: Create df from JSON and Store it on the DB
 ![alt text](https://github.com/hugoestradas/Challenge20220714/blob/main/part2.png?raw=true)

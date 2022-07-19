@@ -17,3 +17,7 @@ The solution is contenirized in a Docker-Compose environment, fully prepared for
 
 ## Part 4: Bonus
 ![alt text](https://github.com/hugoestradas/Challenge20220714/blob/main/part4.png?raw=true)
+
+
+Hugo Estrada S.
+Guatemala, July the 19th, 2022.
